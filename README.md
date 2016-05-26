@@ -11,3 +11,4 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
 2. Course 2 - Data Analysis Tools
     1. [Running an analysis of variance](Analysis_Variance.ipynb)
     2. [Running a Chi-Square Test of Independence](Chi-Square_Test.ipynb)
+    3. [Generating a Correlation Coefficient](PearsonCorrelation.ipynb)
