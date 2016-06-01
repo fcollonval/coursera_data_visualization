@@ -12,3 +12,5 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     1. [Running an analysis of variance](Analysis_Variance.ipynb)
     2. [Running a Chi-Square Test of Independence](Chi-Square_Test.ipynb)
     3. [Generating a Correlation Coefficient](PearsonCorrelation.ipynb)
+    4. [Testing a Potential Moderator](PotentialModerator.ipynb)
+    
