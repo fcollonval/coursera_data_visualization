@@ -13,4 +13,7 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     2. [Running a Chi-Square Test of Independence](Chi-Square_Test.ipynb)
     3. [Generating a Correlation Coefficient](PearsonCorrelation.ipynb)
     4. [Testing a Potential Moderator](PotentialModerator.ipynb)
+
+3. Course 3 - Regression Modeling in Practice
+	1. [Writing about your data](WritingAboutData.ipynb)
     
