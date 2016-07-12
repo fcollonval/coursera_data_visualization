@@ -15,6 +15,6 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     4. [Testing a Potential Moderator](PotentialModerator.ipynb)
 
 3. Course 3 - Regression Modeling in Practice
-	1. [Writing about your data](WritingAboutData.ipynb)
+    1. [Writing about your data](WritingAboutData.ipynb)
     2. [Test a Basic Linear Regression Model](BasicLinearRegression.ipynb)
     
