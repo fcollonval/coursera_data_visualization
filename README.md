@@ -17,5 +17,5 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
 3. Course 3 - Regression Modeling in Practice
     1. [Writing about your data](WritingAboutData.ipynb)
     2. [Test a Basic Linear Regression Model](BasicLinearRegression.ipynb)
-    3. [Assignment: Test a Multiple Regression Model](MultipleRegression.ipynb)
+    3. [Test a Multiple Regression Model](MultipleRegression.ipynb)
     
