@@ -18,4 +18,4 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     1. [Writing about your data](WritingAboutData.ipynb)
     2. [Test a Basic Linear Regression Model](BasicLinearRegression.ipynb)
     3. [Test a Multiple Regression Model](MultipleRegression.ipynb)
-    
+    4. [Test a Logistic Regression Model](LogisticRegression.ipynb)
