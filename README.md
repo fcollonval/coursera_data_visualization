@@ -19,3 +19,6 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     2. [Test a Basic Linear Regression Model](BasicLinearRegression.ipynb)
     3. [Test a Multiple Regression Model](MultipleRegression.ipynb)
     4. [Test a Logistic Regression Model](LogisticRegression.ipynb)
+
+4. Course 4 - Machine Learning for Data Analysis
+    1. [Running a Classification Tree](ClassificationTree.ipynb)
