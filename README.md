@@ -23,3 +23,4 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
 4. Course 4 - Machine Learning for Data Analysis
     1. [Running a Classification Tree](ClassificationTree.ipynb)
     2. [Running a Random Forest](RandomForest.ipynb)
+    3. [Running a Lasso Regression Analysis](LassoRegression.ipynb)
