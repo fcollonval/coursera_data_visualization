@@ -24,3 +24,4 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     1. [Running a Classification Tree](ClassificationTree.ipynb)
     2. [Running a Random Forest](RandomForest.ipynb)
     3. [Running a Lasso Regression Analysis](LassoRegression.ipynb)
+    4. [Running a k-means Cluster Analysis](KMeansCluster.ipynb)
