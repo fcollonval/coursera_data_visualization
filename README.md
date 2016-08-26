@@ -25,3 +25,11 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     2. [Running a Random Forest](RandomForest.ipynb)
     3. [Running a Lasso Regression Analysis](LassoRegression.ipynb)
     4. [Running a k-means Cluster Analysis](KMeansCluster.ipynb)
+
+5. Capstone project
+    [Tanzanian faulty water pumps prediction](WaterPumpsPrediction.ipynb)
+
+The notebooks are available under the MIT License (MIT)
+Note: Due to copyright regulation the data cannot be made publicly available. 
+
+Copyright (c) 2016 Frederic Collonval
