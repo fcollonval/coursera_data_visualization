@@ -85,11 +85,6 @@ unknown type  {{ cell.type }}
 {%- endblock stream_stdout %}
 
 {% block stream_stderr -%}
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>
-{{- output.text | ansi2html -}}
-</pre>
-</div>
 {%- endblock stream_stderr %}
 
 {% block data_svg scoped -%}
