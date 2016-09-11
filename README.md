@@ -26,8 +26,7 @@ Programs and notebooks related to the [Data Analysis and Interpretation Speciali
     3. [Running a Lasso Regression Analysis](LassoRegression.ipynb)
     4. [Running a k-means Cluster Analysis](KMeansCluster.ipynb)
 
-5. Capstone project
-    [Tanzanian faulty water pumps prediction](TanzanianWaterPumpsPrediction.pdf)
+5. Capstone project [Tanzanian faulty water pumps prediction](TanzanianWaterPumpsPrediction.pdf)
     
     The notebook can be found [there](WaterPumpsPrediction.ipynb)
     And the playground notebook [there](WaterPumpsPredictionAnalysis.ipynb)
